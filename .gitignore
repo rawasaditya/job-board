@@ -1,0 +1,10 @@
+api-gateway/node_modules/
+api-gateway/.env
+*/node_modules/
+frontend/next-env.d.ts
+frontend/.next/
+services/auth-services/node_modules/
+services/job-services/node_modules/
+services/user-services/node_modules/
+
+services/auth-services/.env
